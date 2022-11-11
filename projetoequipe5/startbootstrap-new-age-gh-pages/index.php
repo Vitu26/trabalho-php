@@ -9,13 +9,14 @@
             <div class="container px-5">
                 <div class="row gx-5 justify-content-center">
                     <div class="col-xl-8">
-                            <Form method="POST" action="">
+                            <Form method="POST" action="cadastro.php">
                             <div class="mb-3">
                                 <h2>Infome seu email para receber atualizações!</h2>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Digite seu email">
+                                <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Digite seu email">
                             </div>
                             <button type="submit" class="btn btn-primary">Enviar</button>
                             </form>
+
                     </div>
                 </div>
             </div>
