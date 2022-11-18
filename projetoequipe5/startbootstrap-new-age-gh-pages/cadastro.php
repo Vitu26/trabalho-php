@@ -2,6 +2,7 @@
 
 include_once("config/connections.php");
 include_once("config/url.php");
+include_once("templates/header_auth.php");
 
  if($email == "" || $email == null){
     echo"<script language='javascript' type='text/javascript'>
@@ -23,4 +24,14 @@ include_once("config/url.php");
           .href='cadastro.html'</script>";
         }
       }
+
+?>
+
+
+
+<?php
+
+include_once("templates/footer.php");
+
+?>
     

@@ -1,7 +1,7 @@
-<?php
+<!-- <?php
 
  $host = "localhost";
- $dbname = "projetoequipe5";
+ $dbname = "projeto5";
  $user = "root";
  $pass = "";
  $email = $_POST['email'];
@@ -18,3 +18,5 @@
     $error = $e->getMessage();
     echo "Erro: $error";
  }
+
+ ?> -->

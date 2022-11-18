@@ -35,17 +35,7 @@
         </section>
         <!-- Call to action section-->
 
-        <!-- App badge section-->
-        <section class="bg-gradient-primary-to-secondary" id="download">
-            <div class="container px-5">
-                <h2 class="text-center text-white font-alt mb-4">Nos siga nas redes sociais!</h2>
-                <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
-                    <a href="#" class="icon-new" id="insta"><i class="bi bi-instagram"></i></a>
-                    <a href="#" class="icon-new" id="face"><i class="bi bi-facebook"></i></a>
-                    <a href="https://wa.me/5583986627934" class="icon-new" id="wpp"><i class="bi bi-whatsapp"></i></a>
-                </div>
-            </div>
-        </section>
+    
     
 
 <?php
